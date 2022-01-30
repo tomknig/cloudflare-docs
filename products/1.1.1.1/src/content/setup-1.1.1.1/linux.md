@@ -64,7 +64,7 @@ Follow these steps to configure 1.1.1.1 in Ubuntu and Debian:
 1. Press the <kbd>ESC</kbd> key on your keyboard to save and exit Vim. Then, type:
 
   ```
-  :wq
+  :x
   ```
 
 1. Visit [1.1.1.1/help](https://1.1.1.1/help) to make sure your system is connected to 1.1.1.1.
